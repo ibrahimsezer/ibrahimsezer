@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim SEZER</h1>
 <h3 align="center">A Computer Engineer Student from Turkey in Amasya University</h3>
 
-- 🌱 I’m currently learning **Flutter, T-Sql**
+- 🌱 I’m currently learning **.Net Core C# **
 
 - 👨‍💻 All of my projects are available at [github.com/ibrahimsezer](github.com/ibrahimsezer)
 
