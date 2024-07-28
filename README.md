@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ibrahimsezer](github.com/ibrahimsezer)
 
-- 📫 How to reach me **ibrahimszr16@gmail.com**
+- 📫 How to reach me **ibrahimsezer.ceng@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-sezer/](https://www.linkedin.com/in/ibrahim-sezer/)
 
