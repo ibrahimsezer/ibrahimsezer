@@ -1,55 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ibrahim SEZER</h1>
-<h3 align="center">A passionate Computer Engineer committed to Artificial Intelligence</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&duration=2000&pause=10000&color=1DA5F0&center=true&vCenter=true&width=1100&height=100&lines=%C4%B0brahim+SEZER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=10000&color=1DA5F0&center=true&vCenter=true&width=1100&height=100&lines=A+passionate+Computer+Engineer+committed+to+Artificial+Intelligence" alt="Typing SVG" /></a>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsezer&show_icons=true&locale=en&theme=radical" alt="ibrahimsezer-stats" />
-</p>
-
----
+<div align="center">
 
 ## About Me 🤔
-I am a computer engineer with a passion for developing innovative ideas and products using generative artificial intelligence. Currently, I am working on TÜBİTAK projects involving deep learning and machine learning, while also honing my skills in mobile development with **Flutter** technology.
+I am a computer engineer with a passion for developing innovative ideas and products using generative artificial intelligence. Currently, I am working on TÜBİTAK projects involving deep learning and machine learning, while also honing my skills in mobile development with **Flutter** technology. In addition, I am a **YouTuber** creating music and visual content using artificial intelligence, and I enjoy producing AI-driven content for social media during my free time.
 
-In addition, I am a **YouTuber** creating music and visual content using artificial intelligence, and I enjoy producing AI-driven content for social media during my free time.
-
-- 🌱 **Currently Learning**: Flutter (MVVM, Provider, Riverpod, Firebase Integration)  
+</div>
+<div align="center">
+  
+- 🔭 I’m currently working on finance app **Finavix**
+- 🌱 **Currently Learning**: Flutter  
 - 👨‍💻 **All Projects**: [GitHub Portfolio](https://github.com/ibrahimsezer)  
 - 🤵 **Portfolio Website**: [**Ibrahim Sezer**](https://ibrahimsezer.github.io)  
 - 📫 **Contact Me**: ibrahimsezer.ceng@gmail.com  
 - 📄 **My Experiences**: [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sezer/)  
 
----
-
 ## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsezer&show_icons=true&locale=en&theme=radical" alt="ibrahimsezer-stats" />
+</p><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimsezer&show_icons=true&theme=radical&locale=en&layout=compact" alt="top-langs" />
 </p>
 
+</div>
+
 ---
 
+<div align="center">
+  
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/ibrahim-sezer" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+
+  <a href="mailto:ibrahimsezer.ceng@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
+  <a href="https://linkedin.com/in/ibrahim-sezer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ibrahimsezer.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
+<div align="center">
+  
 ## 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-</p>
+  
+   <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,python,firebase,nodejs" /><br>
+   <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,git,postman" /><br>
+
+  
+</div>
