@@ -13,11 +13,7 @@ I am a computer engineer with a passion for developing innovative ideas and prod
   
 - 🔭 I’m currently working on finance app **Finavix**
 - 🌱 **Currently Learning**: Flutter  
-- 👨‍💻 **All Projects**: [GitHub Portfolio](https://github.com/ibrahimsezer)  
-- 🤵 **Portfolio Website**: [**Ibrahim Sezer**](https://ibrahimsezer.github.io)  
-- 📫 **Contact Me**: ibrahimsezer.ceng@gmail.com  
-- 📄 **My Experiences**: [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sezer/)
-
+<br>
   <a href="mailto:ibrahimsezer.ceng@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
