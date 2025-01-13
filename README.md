@@ -16,23 +16,7 @@ I am a computer engineer with a passion for developing innovative ideas and prod
 - 👨‍💻 **All Projects**: [GitHub Portfolio](https://github.com/ibrahimsezer)  
 - 🤵 **Portfolio Website**: [**Ibrahim Sezer**](https://ibrahimsezer.github.io)  
 - 📫 **Contact Me**: ibrahimsezer.ceng@gmail.com  
-- 📄 **My Experiences**: [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sezer/)  
-
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsezer&show_icons=true&locale=en&theme=radical" alt="ibrahimsezer-stats" />
-</p><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimsezer&show_icons=true&theme=radical&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-  
-## 🌐 Connect with Me
+- 📄 **My Experiences**: [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-sezer/)
 
   <a href="mailto:ibrahimsezer.ceng@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -44,16 +28,23 @@ I am a computer engineer with a passion for developing innovative ideas and prod
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 
-</div>
-
----
-
 <div align="center">
   
 ## 🛠️ Languages and Tools
   
    <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,python,firebase,nodejs" /><br>
    <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,git,postman" /><br>
-
   
 </div>
+
+## 🔥 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsezer&show_icons=true&theme=dark" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsezer&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+
+
+---
+
+
