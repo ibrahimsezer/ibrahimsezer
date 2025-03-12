@@ -6,8 +6,7 @@
 <div align="center">
 
 ## About Me 🤔
-I am a computer engineer with a passion for developing innovative ideas and products using generative artificial intelligence. Currently, I am working on TÜBİTAK projects involving deep learning and machine learning, while also honing my skills in mobile development with **Flutter** technology. In addition, I am a **YouTuber** creating music and visual content using artificial intelligence, and I enjoy producing AI-driven content for social media during my free time.
-
+I am a computer engineer with a passion for developing innovative ideas and products using generative artificial intelligence. Currently, I am working on TÜBİTAK projects involving deep learning and machine learning, while also honing my skills in mobile development with **Flutter** technology.
 </div>
 <div align="center">
   
