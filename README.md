@@ -10,8 +10,8 @@ I am a computer engineer with a passion for developing innovative ideas and prod
 </div>
 <div align="center">
   
-- 🔭 I’m currently working on finance app **Finavix**
-- 🌱 **Currently Learning**: Flutter  
+- 🔭 I’m currently working on unity Game project
+- 🌱 **Currently Learning**: Unity with Optimization Algorithms
 <br>
   <a href="mailto:ibrahimsezer.ceng@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
