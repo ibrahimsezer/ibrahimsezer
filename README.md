@@ -32,13 +32,6 @@ I am a computer engineer with a passion for developing innovative ideas and prod
   
 </div>
 
-## 🔥 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsezer&show_icons=true&theme=dark" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsezer&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-
 
 ---
 
